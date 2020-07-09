@@ -17,3 +17,7 @@ def find_min_in_nested_arrays(src)
   end
   array_low
 end
+
+array = [1,2,3,4,5,6]
+
+puts array.max
